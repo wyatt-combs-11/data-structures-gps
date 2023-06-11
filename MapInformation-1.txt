@@ -1,0 +1,67 @@
+<Nodes>
+Symbol	Address																		
+A	1121 N Bend Rd.																		
+B	1521 Grassland Ave.																		
+C	22 Main St.																		
+D	44 W Lexington Ave.																		
+E	4423 Walnut St.																		
+F	1616 Levington Blvd.																		
+G	2402 N Bend Rd.																		
+H	33 Holden Ave.																		
+I	3411 Walnut St.																		
+J	44 Kirkland Dr.																		
+K	14 Pepper Ave.																		
+L	3311 N Bend Rd.																		
+M	15 Goodman Dr.																		
+N	510 Lake St.																		
+O	1600 N Bend Rd.																		
+P	55 Main St.																		
+Q	5500 Walnut St.																		
+R	11 Savannah Dr.																		
+S	20  Hopper Blvd.																		
+T	9810 Miami Blvd.																		
+</Nodes>
+<Edges>
+Source	Destination	TimeCost	DistanceCost	Lanes															
+A	C	4	8	2
+A	Q	3	6	3
+A	T	5	10	2
+B	G	6	12	3
+B	H	8	16	4
+B	Q	2	16	2
+B	R	5	10	1
+C	D	2	4	3
+C	J	8	16	2
+C	L	8	16	4
+D	F	4	8	2
+D	N	7	14	1
+D	T	1	4	1	
+E	G	8	5	4
+E	I	7	14	2
+E	O	4	8	4
+E	Q	3	6	3
+F	M	10	20	5
+F	R	6	16	4
+G	D	1	60	3
+H	K	6	12	3
+H	L	2	5	2
+I	E	5	14	2
+J	C	7	16	1
+K	H	4	12	2
+L	C	2	16	1
+L	H	1	5	4
+M	F	6	20	5
+N	S	4	8	3
+O	E	7	8	8
+O	P	4	8	2
+P	C	4	8	3
+P	F	8	4	2
+P	O	3	8	4
+P	T	7	14	2
+Q	B	8	16	1
+R	F	8	16	5
+S	D	3	6	3
+S	T	6	9	3
+T	D	2	4	4
+T	S	4	9	1
+</Edges>
